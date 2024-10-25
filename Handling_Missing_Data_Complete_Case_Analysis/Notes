@@ -1,0 +1,22 @@
+Complete Case Analysis (CCA) is a straightforward and commonly used method to handle missing data. This method, also known as listwise deletion, involves excluding any rows in the dataset that contain missing values. Here’s a breakdown of CCA
+
+Overview of Complete Case Analysis
+Definition Complete Case Analysis removes any data rows that have at least one missing value, leaving only those rows that are complete (i.e., without any missing data) for analysis.
+Usage Ideal when the dataset is large and the amount of missing data is relatively small.
+
+When to Use Complete Case Analysis
+Data Missing Completely at Random (MCAR) CCA is most effective if the missing data points are random and not influenced by other observed or unobserved data.
+Minimal Loss of Data It works well when only a small percentage of the dataset is missing data, ensuring the loss of information is negligible.
+Simplicity CCA is easy to implement and does not require complex imputation or estimation techniques.
+
+Steps in Implementing Complete Case Analysis
+Identify Missing Values Use functions to detect missing values in the dataset.
+Exclude Rows with Missing Data Filter out rows where any column has a missing value.
+Perform Analysis on Complete Cases Only Proceed with your statistical analysis or model training using only the complete rows.
+
+Advantages of Complete Case Analysis
+Simple to Implement Requires minimal computational effort and no additional imputation.
+Bias Minimization Works well in situations where missing data is MCAR, as this helps to avoid biases.
+Disadvantages of Complete Case Analysis
+Data Loss Excluding rows with missing data can significantly reduce the dataset size, especially if missing data is extensive.
+Potential Bias If data is missing not at random (MNAR) or even at random (MAR), CCA can lead to biased results.
