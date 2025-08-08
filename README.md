@@ -5,3 +5,4 @@ Logistic Regression Part 1 | Perceptron Trick
 Logistic Regression Part 2 | Perceptron Trick Code
 Logistic Regression Part 3 | Sigmoid Function 
 Logistic Regression Part 4 | Loss Function | Maximum Likelihood | Binary Cross Entropy
+Derivative of Sigmoid Function
