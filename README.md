@@ -9,3 +9,4 @@ Derivative of Sigmoid Function
 Logistic Regression Part 5 | Gradient Descent & Code From Scratch
 Accuracy and Confusion Matrix | Type 1 and Type 2 Errors | Classification Metrics Part 1
 Precision, Recall and F1 Score | Classification Metrics Part 1
+Softmax Regression || Multinomial Logistic Regression | Logistic Regression Part 6
