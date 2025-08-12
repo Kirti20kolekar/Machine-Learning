@@ -13,3 +13,4 @@ Softmax Regression || Multinomial Logistic Regression | Logistic Regression Part
 Polynomial Features in Logistic Regression | Non-Linear Logistic Regression | Logistic Regression Part 7
 Logistic Regression Hyperparameters | Logistic Regression Part 8
 Decision Trees Geometric Intuition | Entropy | Gini impurity | Information Gain
+Decision Trees - Hyperparameters | Overfitting and Underfitting in Decision Trees
