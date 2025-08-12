@@ -15,3 +15,5 @@ Logistic Regression Hyperparameters | Logistic Regression Part 8
 Decision Trees Geometric Intuition | Entropy | Gini impurity | Information Gain
 Decision Trees - Hyperparameters | Overfitting and Underfitting in Decision Trees
 Regression Trees | Decision Trees Part 3
+Awesome Decision Tree Visualization using dtreeviz library
+Introduction to Ensemble Learning | Ensemble Techniques in Machine Learning
