@@ -22,5 +22,6 @@ Voting Ensemble | Classification | Voting Classifier | Hard Voting Vs Soft Votin
 Voting Ensemble | Regression | Part 3
 Bagging | Introduction | Part 1
 Bagging Ensemble | Bagging Classifiers | Part 2
+Adaboost
 XGBoost
 ROC-AUC
